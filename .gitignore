@@ -1,0 +1,12 @@
+# 用户配置文件
+course_list.yaml
+course_queue.json
+
+# 打包脚本&构建结果
+build.bat
+build_clean.py
+setup.py
+build_env/
+build/
+dist/
+*.spec
