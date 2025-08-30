@@ -4,6 +4,10 @@ Inspired by [HUST-OCSS-Fucker](https://github.com/7erryX/HUST-OCSS-Fucker) - Go 
 
 基于Python重构的HUST-NCC选课系统助手，带GUI。
 
+## 展示
+
+![](./src/demo.png)
+
 ## 功能特点
 
 -  **GUI界面** - 基于CustomTkinter
