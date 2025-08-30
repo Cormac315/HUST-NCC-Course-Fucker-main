@@ -79,18 +79,6 @@ Inspired by [HUST-OCSS-Fucker](https://github.com/7erryX/HUST-OCSS-Fucker) - Go 
 - `course_list.yaml`: 课程列表缓存
 - `course_queue': 定时抢课队列
 
-## 功能对比
-
-| 功能 | Go版本 | Python版本 |
-|------|--------|------------|
-| 基础选课 | ✅ | ✅ |
-| 课程管理 | ✅ | ✅ |
-| GUI界面 | ❌ | ✅ |
-| 账密登录 | ❌ | ✅ |
-| 定时抢课 | ❌ | ✅ |
-| 同时抢多个课 | ❌ | ✅ |
-| 配置管理 | ✅ | ✅ |
-
 ## 注意事项
 
 ⚠️ **重要提醒**:
