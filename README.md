@@ -6,7 +6,7 @@ Inspired by [HUST-OCSS-Fucker](https://github.com/7erryX/HUST-OCSS-Fucker) - Go 
 
 ## 展示
 
-![](./src/demo.png)
+![](./src/demo.gif)
 
 ## 功能特点
 

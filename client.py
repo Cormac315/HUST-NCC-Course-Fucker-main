@@ -12,7 +12,7 @@ from config import Config
 
 
 class HUSTCourseClient:
-    """华中科技大学选课客户端"""
+    """NCC选课客户端"""
     
     def __init__(self):
         self.session = requests.Session()

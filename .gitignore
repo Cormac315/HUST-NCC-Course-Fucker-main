@@ -10,3 +10,4 @@ build_env/
 build/
 dist/
 *.spec
+BLANK_README.md
